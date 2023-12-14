@@ -1,5 +1,5 @@
 CMakeFiles/myexample.dir/main.cpp.o: \
- /home/tsg/Documents/CalenderTasks/Task4/main.cpp \
+ /home/tsg/Documents/CalenderTasks/AdventOfCode/Day4/main.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/unordered_map \
  /usr/include/c++/11/type_traits \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
@@ -168,4 +168,13 @@ CMakeFiles/myexample.dir/main.cpp.o: \
  /usr/include/c++/11/bits/stl_uninitialized.h \
  /usr/include/c++/11/bits/stl_vector.h \
  /usr/include/c++/11/bits/stl_bvector.h \
- /usr/include/c++/11/bits/vector.tcc
+ /usr/include/c++/11/bits/vector.tcc /usr/include/c++/11/algorithm \
+ /usr/include/c++/11/bits/stl_algo.h \
+ /usr/include/c++/11/bits/algorithmfwd.h \
+ /usr/include/c++/11/bits/stl_heap.h \
+ /usr/include/c++/11/bits/stl_tempbuf.h \
+ /usr/include/c++/11/bits/uniform_int_dist.h \
+ /usr/include/c++/11/pstl/glue_algorithm_defs.h \
+ /usr/include/c++/11/functional /usr/include/c++/11/bits/refwrap.h \
+ /usr/include/c++/11/bits/std_function.h \
+ /usr/include/c++/11/pstl/execution_defs.h
