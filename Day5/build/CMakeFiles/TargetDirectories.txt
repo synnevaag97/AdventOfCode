@@ -1,0 +1,3 @@
+/home/tsg/Documents/CalenderTasks/AdventOfCode/Day5/build/CMakeFiles/myexample.dir
+/home/tsg/Documents/CalenderTasks/AdventOfCode/Day5/build/CMakeFiles/edit_cache.dir
+/home/tsg/Documents/CalenderTasks/AdventOfCode/Day5/build/CMakeFiles/rebuild_cache.dir

@@ -42,3 +42,52 @@ Utilize data structures and algorithms availible in the standard library.
 * Tuple
 
 * Smart Pointers
+
+
+### Sorting Algorithms
+* Sort : Sort elements in range
+* Stable sort : Sort elements, mainating the relative order of equal elements. 
+* Partial sort : Partially sorts the range up to a specified position. 
+
+### Searching Algorithms
+* Binary search : Performs binary search on a sorted range. 
+* Find : Finds the first occurrence of a value in a range. 
+* find if : Finds the first elements satisfying a given predicate. 
+
+### Numeric Algorithms
+* Accumulate : Computes the sum/product of elements in a range
+* inner product : Computes the inner product of two ranges. 
+
+### Permutation Algorithms
+* Next permutation : 
+* Prev permutation
+
+### Set Algorithms
+* Set union
+* set intersection
+* set dufferebce
+
+### Heap Algorithms
+* Make heap
+* pop heap
+* Push heap
+
+
+### Min/Max Algorithms
+* min
+* max
+* min element
+* max element
+
+### Algorithmic Algorithms
+* transform
+* for each
+* copy
+
+### Searching Algorithms
+* lower bound
+* upper boud
+
+### Partition Algorithms
+* Partition
+* Stable partition
